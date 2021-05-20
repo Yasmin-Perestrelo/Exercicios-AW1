@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8"/>
+  <meta name="description" content="Conceito sobre Web">
+  <meta name="keywords" content="CSS, HTML, JavaScript, Web">
+  <meta name="author" content="Yasmin Perestrelo">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Desenvolvimento Web</title>
+</head>
+
+<body>
+  <h1>K02 - Desenvolvimento Web com HTML, CSS, JavaScript</h1>
+
+  <p>Atualmente, praticamente todos os sistemas corporativs possuem
+  interfaces web. Para quem desejar atuar no mercado de desenvolvimento
+  de software, é obrigatório o conhecimento das linguagens: HTML, CSS
+  e JavaScript.</p>
+
+  <p>Essas linguagens são utilizadas para o desenvolvimento da camada de apresentação das aplicações web.</p>
+
+
+</body>
+
+</html>
