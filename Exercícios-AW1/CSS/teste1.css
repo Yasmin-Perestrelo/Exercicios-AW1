@@ -44,6 +44,10 @@ nav a {
   color: gray;
 }
 
+a:hover {
+  color: black;
+}
+
 /*CORPO*/
 
 body {
@@ -103,6 +107,10 @@ h2 {
   position: absolute;
   margin-left: 22%;
   margin-top: 5.5%;
+}
+
+#ex1 a:hover {
+  color: gray;
 }
 
 #ex1 a {
