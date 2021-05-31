@@ -1,0 +1,132 @@
+/* RESET DA PÁGINA */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style:none;
+}
+
+/*CABEÇALHO*/
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  padding-top: 1%;
+  font-size: 2.7em;
+}
+
+#exercicios {
+  width: 100vw;
+  height: 9em;
+  background-color: white;
+  box-shadow: 0px 0px 10px lightgray;
+}
+
+#menu {
+  width: 100vw;
+  height: 2em;
+  box-shadow: 0px -1px 10px lightgray;
+  background-color: white;
+}
+
+nav ul {
+  display: grid;
+  gap: 5em;
+  grid-template-columns: 50px 50px 130px 50px;
+  left: 10%;
+  margin-left: 31%;
+  padding-top: 0.5%;
+}
+
+nav a {
+  font-family: 'roboto';
+  color: gray;
+}
+
+/*CORPO*/
+
+body {
+  background-image: url("https://lh6.ggpht.com/RGC6FH1TOgKhPp8tF2GdGQQd20CQSJ4dRFITgTRUs-LP5W33R422fPtQ5zZ4HGNB4lfM3OOIhoA=s0");
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+#Home {
+  background-color: rgba(255,255,255,0.7);
+  height: 60em;
+  margin: 3%;
+  padding: 2% 2% 2% 6%;
+}
+
+/*DENTRO DO QUADRADO BRANCO*/
+
+.grid {
+  display: grid;
+  gap: 4.2em;
+  grid-template-columns: 45% 40% 40%;
+}
+
+/*ATIVIDADE 1*/
+
+h2 {
+  font-family: 'roboto';
+  margin-left: 5em;
+  height: 50px;
+  width: 260px;
+}
+
+.rosa {
+  background-color: #F08479;
+  height: 10em;
+  width: 13em;
+  border: 2px dotted black;
+}
+
+.laranja {
+  background-color: #F5B564;
+  height: 25%;
+  width: 16%;
+  position: absolute;
+  margin-top: 3%;
+  margin-left: 3%;
+  border: 2px dashed black;
+}
+
+.atividade1, .atividade2 {
+  display: grid;
+  gap: 5em;
+  grid-template-columns: 18% 18%;
+}
+
+#ex1 {
+  position: absolute;
+  margin-left: 22%;
+  margin-top: 5.5%;
+}
+
+#ex1 a {
+  color: black;
+  border-bottom: 1.5px dashed black;
+}
+
+
+/*ATIVIDADE 2*/
+
+#ex2 {
+  position: absolute;
+  margin-left: 22%;
+  margin-top: 5.5%;
+}
+
+#ex2 a {
+  color: black;
+  border-bottom: 1.5px dashed black;
+}
+
+#at2 {
+  font-family: 'roboto';
+  margin-left: 5.5em;
+  height: 50px;
+  width: 260px;
+}
