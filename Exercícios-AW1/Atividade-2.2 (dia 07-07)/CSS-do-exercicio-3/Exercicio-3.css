@@ -29,7 +29,15 @@ ul li {
   padding: 0 0 20px 0;
 }
 
-p:first-child {
+ul + p {
+color : red ;
+}
+
+ul ~ p {
+font - style : italic ;
+}
+
+/*p:first-child {
   color: red;
   font-style: italic;
-}
+}*/
